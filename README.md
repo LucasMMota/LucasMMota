@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-    <h2>Hi, I'm Lucas Fonseca  <img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width=70  /></h2>     
+    <h2>Hi, I'm Lucas Fonseca  <img src="https://raw.githubusercontent.com/LucasMMota/LucasMMota/main/attachments/lgbt-flag.png" width=70 /></h2>     
     <img align="right" src="https://komarev.com/ghpvc/?username=LucasMMota&style=flat&label=Visitors"  />
 </p>
 
