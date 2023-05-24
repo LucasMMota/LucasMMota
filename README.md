@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <br/><br/>
 
 <p><em> 
-    :brazil: I'm a <strong>Data Engineer</strong>, I was born in Cunha-SP and currently live in São Paulo, Brazil.<br />
-     :briefcase:  I'm currently working as a Data Engineer in the Data Availability team at <a href="https://www.quintoandar.com.br">Quintoandar</a>. <br />
+    :brazil: I'm <strong>Data Engineer</strong>, I was born in Cunha-SP and currently live in São Paulo, Brazil.<br />
+     :briefcase:  I'm currently working as Data Engineer at <a href="https://www.quintoandar.com.br">Inventa.shop</a>. <br />
 </em></p>
 
 ### Certifications
